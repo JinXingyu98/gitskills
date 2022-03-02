@@ -1,0 +1,6 @@
+git add readme.txt
+git commit -m "wrote readme"
+
+git status
+
+git diff readme.txt
